@@ -1,0 +1,16 @@
+colorscheme elflord
+set incsearch
+set textwidth=0
+set wrapmargin=0
+set wrap
+set linebreak
+set nolist
+set ignorecase
+set shiftwidth=3
+set tabstop=3
+syntax on
+set autoindent
+syntax on
+set ruler
+set smartindent
+set number
